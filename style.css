@@ -26,15 +26,36 @@ body{
     color: black;
     position: absolute;
     top: 50px;
-    left: 16%;
+    left: 17%;
 }
 
 .buttons{
     position: absolute;
     top: 100px;
-    left: 16%;
+    left: 17%;
     text-align: center;
 }
 
+.btnGroup{
+    background-color: lavender;
+    padding: 10px;
+}
+
+.btnGroup:hover{
+    background-color: white;
+}
+
+.question2{
+    position: absolute;
+    top: 200px;
+    left: 17%;
+}
+
+.petFriendly{
+    position: absolute;
+    top: 250px;
+    left: 17%;
+    text-align: center;
+}
 
 
