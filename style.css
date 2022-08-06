@@ -56,12 +56,18 @@ body{
 }
 
 .coolOptions{
-  position: absolute;
+    top: 380px;
+    left: 400px;
+    position: absolute;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     width: 50%;
-  justify-content: center;
+    justify-content: center;
     font-family: 'Asap', sans-serif;
     font-size: 2vh;
+}
+
+.img{
+  padding-left: 20px;
 }
