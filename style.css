@@ -57,7 +57,7 @@ body{
 
 .coolOptions{
     top: 380px;
-    left: 400px;
+    left: 25%;
     position: absolute;
     display: flex;
     flex-direction: row;
